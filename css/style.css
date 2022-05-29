@@ -6,7 +6,7 @@ body {
 Background-repeat: no-repeat;
 background-size: cover;
 background-position:center;
-background-image:url(/IMG/1200px-Julia_set_spiral.png);
+background-color: #623400;
             
             
 }
@@ -57,7 +57,19 @@ background-image:url(/IMG/1200px-Julia_set_spiral.png);
     width: 120px;
     height: 120px;
     box-shadow: 5px #c48a38;
-    background-image: url(/IMG/psica_large.jpg);
+    background-image: linear-gradient(190deg,
+                hsl(0deg 100% 5%) 0%,
+                hsl(3deg 46% 17%) 9%,
+                hsl(10deg 53% 27%) 18%,
+                hsl(18deg 61% 36%) 27%,
+                hsl(26deg 70% 43%) 36%,
+                hsl(34deg 84% 47%) 44%,
+                hsl(34deg 84% 47%) 53%,
+                hsl(26deg 69% 43%) 62%,
+                hsl(18deg 60% 36%) 70%,
+                hsl(11deg 52% 27%) 80%,
+                hsl(3deg 44% 16%) 90%,
+                hsl(0deg 91% 4%) 100%);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
