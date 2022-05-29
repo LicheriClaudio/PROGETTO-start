@@ -2,20 +2,9 @@
     font-family: 'Lexend', sans-serif;
 }
 body {
-background-image: linear-gradient(190deg,
-            hsl(0deg 100% 5%) 0%,
-            hsl(357deg 65% 13%) 9%,
-            hsl(353deg 78% 20%) 18%,
-            hsl(352deg 91% 27%) 27%,
-            hsl(353deg 100% 33%) 36%,
-            hsl(357deg 100% 41%) 44%,
-            hsl(357deg 100% 41%) 53%,
-            hsl(353deg 99% 33%) 62%,
-            hsl(353deg 88% 27%) 70%,
-            hsl(354deg 75% 20%) 80%,
-            hsl(357deg 62% 13%) 90%,
-            hsl(0deg 91% 4%) 100%);
-            background-repeat: no-repeat;
+background-image: url(/IMG/what.gif);
+Background-repeat: no-repeat;
+background-size: cover;
             
             
 }
@@ -66,18 +55,8 @@ background-image: linear-gradient(190deg,
     width: 120px;
     height: 120px;
     box-shadow: 5px #c48a38;
-    background-image: linear-gradient(190deg,
-            hsl(0deg 100% 53%) 0%,
-            hsl(356deg 86% 43%) 6%,
-            hsl(355deg 78% 34%) 13%,
-            hsl(355deg 66% 25%) 19%,
-            hsl(357deg 51% 15%) 27%,
-            hsl(0deg 38% 3%) 36%,
-            hsl(357deg 53% 15%) 47%,
-            hsl(355deg 69% 25%) 71%,
-            hsl(354deg 82% 33%) 85%,
-            hsl(355deg 94% 42%) 93%,
-            hsl(0deg 100% 51%) 100%);   
+    background: rgb(198, 67, 38);
+        background: linear-gradient(90deg, rgba(198, 67, 38, 1) 40%, rgba(39, 182, 232, 1) 82%);
     border: 1px solid #c49538;
     border-radius: 10px;
 }
