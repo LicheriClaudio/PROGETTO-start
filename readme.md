@@ -1,8 +1,5 @@
 ﻿
-<<<<<<< HEAD
-[Shown link](file:///C:/Users/claud/OneDrive/Desktop/prog%20settimanali/PROGETTO-start/index.html)
-=======
-[CLICCA QUI](http://127.0.0.1:5500/index.html)
+[CLICCA QUI](file:///C:/Users/claud/OneDrive/Desktop/prog%20settimanali/PROGETTO-start/index.html)
 
 
 [HTML]
@@ -445,6 +442,5 @@ background-image: linear-gradient(190deg,
         animation-timing-function: ease-out;
     }
 }
->>>>>>> 34509b4cbcf5154a8de980ee908730281ab4a67d
 
 
