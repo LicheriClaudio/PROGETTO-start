@@ -2,7 +2,19 @@
     font-family: 'Lexend', sans-serif;
 }
 body {
-background-image: url(/IMG/stars.gif);
+background-image: linear-gradient(190deg,
+    hsl(0deg 100% 5%) 0%,
+    hsl(3deg 46% 17%) 9%,
+    hsl(10deg 53% 27%) 18%,
+    hsl(18deg 61% 36%) 27%,
+    hsl(26deg 70% 43%) 36%,
+    hsl(34deg 84% 47%) 44%,
+    hsl(34deg 84% 47%) 53%,
+    hsl(26deg 69% 43%) 62%,
+    hsl(18deg 60% 36%) 70%,
+    hsl(11deg 52% 27%) 80%,
+    hsl(3deg 44% 16%) 90%,
+    hsl(0deg 91% 4%) 100%);
 Background-repeat: no-repeat;
 background-size: cover;
 background-position:center;
@@ -21,20 +33,20 @@ background-position:center;
     width: 900px;
     margin: auto;
     background: transparent;
-    /* background-image: linear-gradient(190deg,
-                hsl(0deg 100% 5%) 0%,
-                hsl(3deg 46% 17%) 9%,
-                hsl(10deg 53% 27%) 18%,
-                hsl(18deg 61% 36%) 27%,
-                hsl(26deg 70% 43%) 36%,
-                hsl(34deg 84% 47%) 44%,
-                hsl(34deg 84% 47%) 53%,
-                hsl(26deg 69% 43%) 62%,
-                hsl(18deg 60% 36%) 70%,
-                hsl(11deg 52% 27%) 80%,
-                hsl(3deg 44% 16%) 90%,
-                hsl(0deg 91% 4%) 100%); */
-    /* box-shadow: 5px 5px 5px 5px  rgba(190, 190, 38, 0.773) */
+    background-image: linear-gradient(190deg,
+        hsl(0deg 100% 5%) 0%,
+        hsl(3deg 46% 17%) 9%,
+        hsl(10deg 53% 27%) 18%,
+        hsl(18deg 61% 36%) 27%,
+        hsl(26deg 70% 43%) 36%,
+        hsl(34deg 84% 47%) 44%,
+        hsl(34deg 84% 47%) 53%,
+        hsl(26deg 69% 43%) 62%,
+        hsl(18deg 60% 36%) 70%,
+        hsl(11deg 52% 27%) 80%,
+        hsl(3deg 44% 16%) 90%,
+        hsl(0deg 91% 4%) 100%);
+    box-shadow: 5px 5px 5px 5px  rgba(190, 190, 38, 0.773)
 }
 
 
@@ -56,7 +68,19 @@ background-position:center;
     width: 120px;
     height: 120px;
     box-shadow: 5px #c48a38;
-    background-image: url(/IMG/transform.gif);
+    background-image: linear-gradient(190deg,
+            hsl(0deg 100% 5%) 0%,
+            hsl(3deg 46% 17%) 9%,
+            hsl(10deg 53% 27%) 18%,
+            hsl(18deg 61% 36%) 27%,
+            hsl(26deg 70% 43%) 36%,
+            hsl(34deg 84% 47%) 44%,
+            hsl(34deg 84% 47%) 53%,
+            hsl(26deg 69% 43%) 62%,
+            hsl(18deg 60% 36%) 70%,
+            hsl(11deg 52% 27%) 80%,
+            hsl(3deg 44% 16%) 90%,
+            hsl(0deg 91% 4%) 100%);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -95,7 +119,7 @@ background-position:center;
     background-color: rgb(255, 196, 1);
     /* border: 1px solid #d62020; */
     border-radius: 10px;
-    background:  transparent;
+    
 }
 
 .find {
