@@ -1,4 +1,4 @@
 ﻿
-[Shown link](http://127.0.0.1:5500/index.html)
+[Shown link](file:///C:/Users/claud/OneDrive/Desktop/prog%20settimanali/PROGETTO-start/index.html)
 
 
